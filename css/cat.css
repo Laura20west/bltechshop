@@ -1,0 +1,43 @@
+body{
+    background-image:url("../room.jpg");
+}
+.cat{
+    align-items: center;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+     width: 60%;
+    
+    padding: 10px;
+}
+.cat h2{
+    font-size: 80px;
+    text-align: center;
+
+}
+
+.cat button{
+    background-color: #FEC8D8;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+    width: 100%;
+    
+    padding: 10px;
+    
+}
+.cat .specbutton{
+    font-size: 20px;
+    font-style: italic;
+}
+.cat .cool{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
